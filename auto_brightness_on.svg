@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="453.5433"
+   height="453.5433"
+   viewBox="-60 -60 120 120"
+   sodipodi:docname="auto_brightness_on.svg"
+   version="1.1"
+   id="svg57"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs59">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5257">
+      <stop
+         style="stop-color:#727272;stop-opacity:1;"
+         offset="0.32410184"
+         id="stop5253" />
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1;"
+         offset="0.69991535"
+         id="stop6972" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop5255" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect8585"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect6963"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5257"
+       id="radialGradient5259"
+       cx="5e-07"
+       cy="5e-07"
+       fx="5e-07"
+       fy="5e-07"
+       r="42.5"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="53.5"
+     inkscape:cy="215.5"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1207"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-grids="true"
+     id="namedview47"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
+    <sodipodi:guide
+       orientation="1,0"
+       position="226.77165,226.77165"
+       id="guide2827"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="226.77165,226.77165"
+       id="guide2829"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3072"
+       empspacing="10"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="mm"
+       dotted="false"
+       spacingx="0.1mm"
+       spacingy="0.1mm"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2822">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="Template"
+     style="fill:none;stroke:#000000;stroke-width:0.05">
+    <g
+       inkscape:groupmode="layer"
+       id="layer1"
+       inkscape:label="Layer 2">
+      <circle
+         style="fill:url(#radialGradient5259);fill-opacity:1;stroke:#000000;stroke-width:0.26458333;stroke-dasharray:none;stroke-opacity:0.99897695"
+         id="path2392-3"
+         cx="5e-07"
+         cy="5e-07"
+         r="42.5" />
+    </g>
+    <path
+       id="rect1280-3-56"
+       style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.0136838"
+       d="m 23.103032,-40.757712 6.206189,-10.749434 5.374717,3.103094 -6.206189,10.749434 z m -53.786969,93.161764 6.206189,-10.749435 5.374512,3.102976 -6.206189,10.749434 z m 72.338555,-76.8818 10.749434,-6.206189 3.103095,5.374717 -10.749434,6.206189 z m -93.161764,53.786968 10.749434,-6.206189 3.102977,5.374513 -10.749435,6.206189 z m 79.984897,12.345399 6.206189,10.749435 -5.374717,3.103094 -6.206189,-10.749434 z m -53.78697,-93.161766 6.206189,10.749434 -5.374513,3.102977 -6.206189,-10.749435 z m 70.066931,74.610179 10.749434,6.206189 -3.103094,5.374717 -10.749435,-6.206189 z m -93.161763,-53.78697 10.749434,6.206189 -3.102976,5.374513 -10.749434,-6.206189 z M 5.1030958,49.580783 V 61.993161 H -1.1030929 V 49.580783 Z m 1.1e-6,-107.573942 v 12.412378 h -6.205953 V -57.993159 Z M 49.580781,-1.1030943 H 61.993158 V 5.1030945 H 49.580781 Z m -107.573939,-3e-7 h 12.412378 v 6.2059521 h -12.412378 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:78.0886px;fill:#30ff66;fill-opacity:1;stroke-width:1.11999998;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
+       x="-26.347305"
+       y="24.668673"
+       id="text1456"><tspan
+         sodipodi:role="line"
+         id="tspan1454"
+         style="font-size:78.0886px;fill:#30ff66;fill-opacity:1;stroke-width:1.11999998;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
+         x="-26.347305"
+         y="24.668673">A</tspan></text>
+  </g>
+</svg>

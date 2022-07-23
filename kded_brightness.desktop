@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Service
+X-KDE-ServiceTypes=KDEDModule
+X-KDE-Library=kded_brightness
+X-KDE-DBus-ModuleName=screen_brightness
+X-KDE-Kded-autoload=true
+X-KDE-Kded-load-on-demand=true
+Name=Screen brightness
+Name[ru]=Яркость экрана
+Comment=Changes the brightness of the screen depending on the ambient light
+Comment[ru]=Изменяет яркость экрана в зависимости от освещенности
