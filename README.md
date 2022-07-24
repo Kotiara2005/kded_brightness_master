@@ -41,9 +41,15 @@ Functions:
 
 This interface is convenient to use together with the plasma widget "Configurable button".
 To enable, set
+
 qdbus org.kde.screen.light.manager /org/kde/screen/light/manager org.kde.screen.light.manager.set_brightness_manage_on 1; sleep2; exit 0
+
 To turn off
+
 qdbus org.kde.screen.light.manager /org/kde/screen/light/manager org.kde.screen.light.manager.set_brightness_manage_on 0; sleep2; exit 0
+
 To check the state when the widget starts
+
 service=$(qdbus org.kde.screen.light.manager /org/kde/screen/light/manager org.kde.screen.light.manager.get_brightness_manage_on); if [[ $service -eq 1 ]] ; then exit 0; else exit 1; fi
+
 Also in the folder there are icons that you can replace the standard icons for the on and off button, they are made by me completely and you can use them as you wish.
